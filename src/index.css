@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-natal-red: #A92E32;
+  --color-natal-red-hover: #942529;
+  --color-natal-red-dark: #7A1D20;
+  --color-natal-green: #214D3A;
+  --color-natal-green-dark: #173829;
+  --color-natal-cream: #FFF8EC;
+  --color-natal-cream-muted: #F8F1E3;
+  --color-natal-gold: #D7AA58;
+  --color-natal-gold-hover: #C59744;
+  --color-natal-gold-light: #F6E6C3;
+  --color-natal-brown: #79583E;
+}
+
+html, body {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+/* Ocultar barra de rolagem visual preservando a capacidade de rolar */
+html, body, #root, * {
+  scrollbar-width: none !important; /* Firefox */
+  -ms-overflow-style: none !important; /* IE e Edge */
+}
+
+*::-webkit-scrollbar {
+  display: none !important; /* Chrome, Safari, Opera */
+  width: 0 !important;
+  height: 0 !important;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+}
+
+/* Subtle sparkle animation for festive touches */
+@keyframes festive-glow {
+  0%, 100% { opacity: 0.9; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.02); }
+}
+
+.festive-pulse {
+  animation: festive-glow 3s ease-in-out infinite;
+}
+
+/* Animações contínuas para o Mosaico Infinito de Moldes A4 */
+@keyframes marquee-left {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-50%, 0, 0); }
+}
+
+@keyframes marquee-right {
+  0% { transform: translate3d(-50%, 0, 0); }
+  100% { transform: translate3d(0, 0, 0); }
+}
+
+.animate-marquee-left {
+  animation: marquee-left 42s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee-right {
+  animation: marquee-right 42s linear infinite;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee-left,
+  .animate-marquee-right {
+    animation: none !important;
+  }
+}

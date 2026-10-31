@@ -1,0 +1,8 @@
+{
+  "name": "Minha Vila de Natal 3D",
+  "description": "Landing page de alta conversão para o produto digital Minha Vila de Natal 3D. Imprima, monte e decore 8 casinhas natalinas encantadoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

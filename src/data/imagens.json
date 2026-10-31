@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "filename": "01-01-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/01-01-corpo.webp",
+    "localSrc": "/images/carrossel/01-01-corpo.webp",
+    "titulo": "Chalé Natalino Clássico",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Molde A4 das paredes, janelas decoradas e estrutura principal"
+  },
+  {
+    "id": 2,
+    "filename": "02-01-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/02-01-guia.webp",
+    "localSrc": "/images/carrossel/02-01-guia.webp",
+    "titulo": "Chalé Natalino Clássico",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Guia ilustrado com esquema de corte, vincos e ordem de colagem"
+  },
+  {
+    "id": 3,
+    "filename": "03-02-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/03-02-corpo.webp",
+    "localSrc": "/images/carrossel/03-02-corpo.webp",
+    "titulo": "Casa de Doces",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Fachada e laterais confeitadas com arabescos e biscoitos natalinos"
+  },
+  {
+    "id": 4,
+    "filename": "04-02-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/04-02-guia.webp",
+    "localSrc": "/images/carrossel/04-02-guia.webp",
+    "titulo": "Casa de Doces",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Passo a passo visual completo para montagem da Casa de Doces"
+  },
+  {
+    "id": 5,
+    "filename": "05-03-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/05-03-corpo.webp",
+    "localSrc": "/images/carrossel/05-03-corpo.webp",
+    "titulo": "Casinha Nevada",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Paredes com efeito rústico de madeira de inverno e guirlanda"
+  },
+  {
+    "id": 6,
+    "filename": "06-03-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/06-03-guia.webp",
+    "localSrc": "/images/carrossel/06-03-guia.webp",
+    "titulo": "Casinha Nevada",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Esquema ilustrado com numeração de dobras e abas de encaixe"
+  },
+  {
+    "id": 7,
+    "filename": "07-04-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/07-04-corpo.webp",
+    "localSrc": "/images/carrossel/07-04-corpo.webp",
+    "titulo": "Casa do Papai Noel",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Fachada nobre do Polo Norte com detalhes em vermelho e ouro"
+  },
+  {
+    "id": 8,
+    "filename": "08-04-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/08-04-guia.webp",
+    "localSrc": "/images/carrossel/08-04-guia.webp",
+    "titulo": "Casa do Papai Noel",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Instruções oficiais de montagem em 3D da residência do Papai Noel"
+  },
+  {
+    "id": 9,
+    "filename": "09-05-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/09-05-corpo.webp",
+    "localSrc": "/images/carrossel/09-05-corpo.webp",
+    "titulo": "Loja de Presentes",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Vitrines ricamente ilustradas com pacotes, laços e brinquedos"
+  },
+  {
+    "id": 10,
+    "filename": "10-05-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/10-05-guia.webp",
+    "localSrc": "/images/carrossel/10-05-guia.webp",
+    "titulo": "Loja de Presentes",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Guia ilustrado para dobradura das vitrines e encaixe das paredes"
+  },
+  {
+    "id": 11,
+    "filename": "11-06-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/11-06-corpo.webp",
+    "localSrc": "/images/carrossel/11-06-corpo.webp",
+    "titulo": "Padaria Natalina",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Fachada aconchegante com vitrines de pães, biscoitos e doces"
+  },
+  {
+    "id": 12,
+    "filename": "12-06-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/12-06-guia.webp",
+    "localSrc": "/images/carrossel/12-06-guia.webp",
+    "titulo": "Padaria Natalina",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Instruções passo a passo para montagem da fachada e do toldo"
+  },
+  {
+    "id": 13,
+    "filename": "13-07-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/13-07-corpo.webp",
+    "localSrc": "/images/carrossel/13-07-corpo.webp",
+    "titulo": "Igreja Natalina",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Nave principal solene com vitrais coloridos e pórtico de entrada"
+  },
+  {
+    "id": 14,
+    "filename": "14-07-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/14-07-guia.webp",
+    "localSrc": "/images/carrossel/14-07-guia.webp",
+    "titulo": "Igreja Natalina",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Guia detalhado para ereção da torre, nave e sustentação do sino"
+  },
+  {
+    "id": 15,
+    "filename": "15-08-corpo.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/15-08-corpo.webp",
+    "localSrc": "/images/carrossel/15-08-corpo.webp",
+    "titulo": "Oficina dos Duendes",
+    "tipo": "Molde do Corpo",
+    "categoria": "corpo",
+    "pagina": "1 de 3",
+    "descricao": "Paredes rústicas da oficina mágica de fabricação de brinquedos"
+  },
+  {
+    "id": 16,
+    "filename": "16-08-guia.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/16-08-guia.webp",
+    "localSrc": "/images/carrossel/16-08-guia.webp",
+    "titulo": "Oficina dos Duendes",
+    "tipo": "Guia de Montagem",
+    "categoria": "guia",
+    "pagina": "3 de 3",
+    "descricao": "Guia ilustrado com todos os vincos e abas da Oficina dos Duendes"
+  },
+  {
+    "id": 17,
+    "filename": "17-02-telhado.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/17-02-telhado.webp",
+    "localSrc": "/images/carrossel/17-02-telhado.webp",
+    "titulo": "Casa de Doces",
+    "tipo": "Molde do Telhado",
+    "categoria": "telhado",
+    "pagina": "2 de 3",
+    "descricao": "Telhado temático confeitado com camadas de neve e glacê açucarado"
+  },
+  {
+    "id": 18,
+    "filename": "18-04-telhado.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/18-04-telhado.webp",
+    "localSrc": "/images/carrossel/18-04-telhado.webp",
+    "titulo": "Casa do Papai Noel",
+    "tipo": "Molde do Telhado",
+    "categoria": "telhado",
+    "pagina": "2 de 3",
+    "descricao": "Cobertura imperial com chaminé de tijolinhos e cumeeira nevada"
+  },
+  {
+    "id": 19,
+    "filename": "19-06-telhado.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/19-06-telhado.webp",
+    "localSrc": "/images/carrossel/19-06-telhado.webp",
+    "titulo": "Padaria Natalina",
+    "tipo": "Molde do Telhado",
+    "categoria": "telhado",
+    "pagina": "2 de 3",
+    "descricao": "Telhado com telhas inglesas nevadas, beiral decorativo e chaminé"
+  },
+  {
+    "id": 20,
+    "filename": "20-07-telhado.webp",
+    "src": "https://res.cloudinary.com/tefsrgce/image/upload/20-07-telhado.webp",
+    "localSrc": "/images/carrossel/20-07-telhado.webp",
+    "titulo": "Igreja Natalina",
+    "tipo": "Molde do Telhado",
+    "categoria": "telhado",
+    "pagina": "2 de 3",
+    "descricao": "Telhado gótico solene com campanário vertical e cruz dourada"
+  }
+]

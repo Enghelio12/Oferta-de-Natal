@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minha Vila de Natal 3D — Transforme Papel em Magia Natalina</title>
+    <meta name="description" content="Landing page de alta conversão para o produto digital Minha Vila de Natal 3D. Imprima, monte e decore casinhas natalinas encantadoras." />
+    <meta property="og:title" content="Minha Vila de Natal 3D — Transforme Papel em Magia Natalina" />
+    <meta property="og:description" content="Landing page de alta conversão para o produto digital Minha Vila de Natal 3D. Imprima, monte e decore casinhas natalinas encantadoras." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Otimizacao de Conexoes Externas -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://res.cloudinary.com" crossorigin>
+    <link rel="dns-prefetch" href="https://res.cloudinary.com">
+
+    <!-- Google Fonts com font-display: swap -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Preload Prioritario Responsivo da Imagem da Hero (Evita download duplicado) -->
+    <link rel="preload" as="image" href="/assets/hero-vila-natalina-420w.webp" type="image/webp" media="(max-width: 480px)" fetchpriority="high">
+    <link rel="preload" as="image" href="/assets/hero-vila-natalina-640w.webp" type="image/webp" media="(min-width: 481px) and (max-width: 768px)" fetchpriority="high">
+    <link rel="preload" as="image" href="/assets/hero-vila-natalina-900w.webp" type="image/webp" media="(min-width: 769px)" fetchpriority="high">
+  </head>
+  <body class="bg-[#FFF8EC] text-[#2D2A26] antialiased selection:bg-[#A92E32] selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
